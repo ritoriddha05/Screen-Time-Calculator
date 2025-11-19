@@ -1,0 +1,45 @@
+Project Statement: Screen-Time Calculator
+
+Problem Statement
+
+Most college students are under increased pressure in the present academic environment to balance digital learning tools-such as online lectures and research-against distractions provided by social media and entertainment. This often leads to excessive, unmonitored screen time. This lack of self-awareness in regard to digital habits leads to reduced focus, poor time management, and possibly compromised academic performance. The problem this project addresses is the quantifiable gap between a student's perceived screen usage and their actual usage.
+
+Project Scope
+
+Digital Wellness Tracker is a single-user application designed to provide the user with a transparent, data-driven view into their digital habits.
+
+System WILL:
+
+1. Allow manual entry of screen time log: time spent, date, and category.
+
+2. Perform all the Create, Read, Update, Delete operations on log entries.
+
+3. Calculate daily, weekly, and total time spent across all defined categories.
+
+4. Display data visually as simple text or graphical charts.
+
+5. Persist data for the view and analysis of historical records by the user.
+
+System WILL NOT:
+
+1. Automatically track screen time with no background monitoring nor integration with device APIs.
+
+2. Provide multi-user functionality, networking, or cloud syncing.
+
+3. Send external notifications, reminders, or push alerts.
+
+4. Use sophisticated functionality such as predictive modeling or machine learning algorithms.
+
+Target Users
+
+The target users are mainly first- and second-year university students, who want to enhance their personal time management and digital well-being. This tool is also intended for any person interested in a basic, manual logging solution for time tracking and analysis.
+
+High-Level Features
+
+1. Time Entry Module: A module with a user interface to log data rapidly and accurately, implementing validation.
+
+2. Category management enables the classification of time spent, such as Study, Social, or Entertainment, for meaningful analysis.
+
+3. Data Persistence: Secure saving and retrieval of historical log data.
+
+4. Dashboard View: Centralized, filtered view that provides aggregated statistics and visualizes trends.
