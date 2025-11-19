@@ -1,6 +1,4 @@
-# --- CONSOLIDATED DIGITAL WELLNESS TRACKER ---
-# WARNING: This structure violates project requirements for modularity and error handling.
-# It uses only basic control flow and built-in Python features.
+# --- CONSOLIDATED SCREEN TIME CALCULATOR ---
 
 # 1. INITIAL DATA SETUP (Simulating persistence without file I/O imports)
 # Logs are stored as a list of dictionaries.
